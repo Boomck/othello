@@ -1,4 +1,5 @@
 # othello/黑白棋
+基于java的棋类小游戏-黑白棋
 |</br>
 |——AIMouseListener  &emsp;&emsp;//ai的鼠标监听</br>
 |——FrameMouseListener  &emsp;&emsp;//玩家的鼠标监听</br>
